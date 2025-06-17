@@ -13,11 +13,8 @@ DriveEasy is a comprehensive web-based car rental platform designed to streamlin
 
 5.Responsive design for all devices
 
-# File structure 
-
-File structure 
-
-
+## File structure 
+```
 driveeasy/
 ├── index.php
 ├── cars.php
@@ -45,8 +42,7 @@ driveeasy/
 │   └── images/
 └── database/
     └── driveeasy.sql
-
-
+```
 
 
 
